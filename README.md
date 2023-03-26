@@ -25,7 +25,7 @@ The app retrieves weather data from the OpenWeather API. To use the API, you nee
 
 
 ## Credits
-The app was built by [Your Name Here]. Feel free to use and modify the code as you like. If you have any questions or suggestions, please feel free to contact me at [Your Email Here].
+The app was built by Ankit Mewada. Feel free to use and modify the code as you like. If you have any questions or suggestions, please feel free to contact me at [Your Email Here].
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/ankit-mewada-59011620b)
